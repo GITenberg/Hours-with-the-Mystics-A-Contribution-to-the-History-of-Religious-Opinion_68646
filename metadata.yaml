@@ -1,11 +1,16 @@
 _repo: Hours-with-the-Mystics-A-Contribution-to-the-History-of-Religious-Opinion_68646
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68646-h/images/cover.jpg
 creator:
   author:
     agent_name: Vaughan, Robert Alfred
     gutenberg_agent_id: '54884'
     url: http://www.gutenberg.org/2009/agents/54884
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68646#Hours-with-the-Mystics-A-Contribution-to-the-History-of-Religious-Opinion
 gutenberg_issued: '2022-07-30'
 identifiers:
   gutenberg: '68646'
